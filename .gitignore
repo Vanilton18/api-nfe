@@ -1,0 +1,10 @@
+
+nfe/core_nfe/__pycache__/
+
+nfe/\.idea/
+
+nfe/nfe/__pycache__/
+
+nfe/core_nfe/migrations/__pycache__/
+
+nfe/data/db/
