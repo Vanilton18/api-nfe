@@ -1,4 +1,4 @@
-## API de Exemplo - Para curso de Performance utilizando JMETER
+## API de Exemplo 
 
 ### Autenticando no DockerHub
 
